@@ -2,7 +2,7 @@
 
 # Simple Shell Project
 
-## Table of Contents
+## Table of Content
 * [Description](#description)
 * [File Structure](#file-structure)
 * [Requirements](#requirements)
