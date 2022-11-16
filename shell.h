@@ -24,7 +24,8 @@ char *concat_all(char *name, char *sep, char *value);
 extern char **environ;
 
 /**
- * struct list_path - Linked list containing PATH directories
+ * struct list_path - Linked list containing
+ * PATH directories
  * @dir: directory in path
  * @p: pointer to next node
  */
@@ -41,7 +42,8 @@ list_path *linkpath(char *path);
 char *_which(char *filename, list_path *head);
 
 /**
- * struct mybuild - this is the pointer to function with corresponding buildin command
+ * struct mybuild - this is the pointer to function
+ * with corresponding buildin command
  * @name: buildin command
  * @func: executes the buildin command
  */
