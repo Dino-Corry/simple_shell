@@ -16,7 +16,7 @@
 ## Description
 This is collaborative project made by Dino & Temitope with the help of Nfon Andrew repository, students of Software Engineering at Alx School. It simply consists of us trying to develop and make our own UNIX command line interpreter (Shell).
 
- It's a recreation of the <kbd>sh</kbd> shell a command line interpreter, this program has the exact same output as <kbd>sh</kbd> <kbd>(/bin/sh)</kbd> as well as the exact same error output
+ It's a recreation of the <kbd>sh</kbd> shell a command line interpreter.This program has the exact same output as <kbd>sh</kbd> <kbd>(/bin/sh)</kbd> as well as the exact same error output
  ## File Structure
 
 These are the files with the custom funtions and system calls, each one contains a brief description:
