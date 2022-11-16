@@ -110,14 +110,14 @@ exit
 
 ## Example of Usage
 ````
-┌──(andy㉿work-spaces)-[~/alx/skk]
+┌──(dino㉿work-spaces)-[~/alx/skk]
 └─$ ./hsh
 #Shell$ ls -;
 /usr/bin/ls: invalid option -- ';'
 Try '/usr/bin/ls --help' for more information.
 
 #Shell$ pwd
-/home/andy/alx/skk
+/home/dino/alx/skk
 
 ````
 ## Bugs
